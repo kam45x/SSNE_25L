@@ -2,3 +2,4 @@ test_all/
 train/
 *.zip
 .ipynb_checkpoints
+lora_results
